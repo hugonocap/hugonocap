@@ -18,7 +18,7 @@ I'm Ahmed from Bulgaria, and I do design and iOS development. I really enjoy lea
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/xcode.svg" />
 </p>
 
-### Contact With Me
+### Connect With Me
 &ensp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hugonocap)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/geekyhugo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/247geekymontana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/247geeky)  
 
