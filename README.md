@@ -1,4 +1,3 @@
-## Hi there 👋, I'm Ahmed
 ### iOS Development and Design
 ![iOS Development and Design](https://user-images.githubusercontent.com/94106586/205724210-a0e17087-5705-4c47-83d6-5c5394a5bc39.png)
 
